@@ -15,7 +15,7 @@ This portfolio showcases selected projects that demonstrate my ability to analyz
 **Highlights:**  
 - Focused on reducing patient wait times, eliminating double bookings, and improving satisfaction in a hospital setting.  
 - Applied BRD/RTM documentation, BPMN workflows, stakeholder engagement, and risk management.  
-- Built dashboards and conducted data analysis using Excel to identify peak-hour bottlenecks.  
+- Built dashboards and conducted data analysis using Excel and IBM Cognos Analytics to identify peak-hour bottlenecks.  
 - Recommended automation and self-check-in kiosks, plus reallocation of staff at peak times. 
 
 ---
