@@ -20,5 +20,5 @@ Business Analyst with 3 years of experience streamlining workflows and boosting 
 
 | Project | Description | Key Tools |
 | :--- | :--- | :--- |
-| [**Healthcare Operations Analysis**]([https://github.com/adwaithroshan/Healthcare-Operations-Analysis](https://github.com/adwaithroshan/Hospital-Efficiency-Improvement/blob/main/README.md)) | Optimized hospital scheduling to target a **20% reduction in wait times** using efficiency analysis and process mapping. | **Excel, BPMN, Risk Analysis** |
-| [**Market Research: Career Analysis**]([https://github.com/adwaithroshan/Market-Research-Career-Analysis](https://github.com/adwaithroshan/Career-Analysis-of-Business-Analyst-Students/blob/main/README.md)) | Led a research team to analyze career barriers for 25+ stakeholders, uncovering a **63% dissatisfaction rate** with existing services. | **Survey Analysis, Stakeholder Mapping** |
+| [**Hospital Efficiency Improvement**](https://github.com/adwaithroshan/Hospital-Efficiency-Improvement) | Optimized hospital scheduling to target a **20% reduction in wait times** using efficiency analysis and process mapping. | **Excel, BPMN, Risk Analysis** |
+| [**Career Analysis of Business Analyst Students**](https://github.com/adwaithroshan/Career-Analysis-of-Business-Analyst-Students) | Led a research team to analyze career barriers for 25+ stakeholders, uncovering a **63% dissatisfaction rate** with existing services. | **Survey Analysis, Stakeholder Mapping** |
