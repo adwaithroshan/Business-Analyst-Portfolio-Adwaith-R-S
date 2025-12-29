@@ -9,7 +9,7 @@ Business Analyst with 3 years of experience streamlining workflows and boosting 
 ### 🛠️ Technical Toolkit
 | Category | Tools & Skills |
 | :--- | :--- |
-| **Data Analysis** | Python (Pandas), SQL, Advanced Excel (PivotTables) |
+| **Data Analysis** | Python (Jupyter Notebook/ Anaconda), SQL, Advanced Excel (PivotTables) |
 | **Visualization** | Power BI, Tableau, IBM Cognos Analytics |
 | **Process Modeling** | Lucidchart, Draw.io, BPMN 2.0 |
 | **Documentation** | JIRA, Confluence, BRD, FRD, RTM |
